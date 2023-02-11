@@ -1,1 +1,1 @@
-USER_AGENT = "rupos_69"
+USER_AGENT = "rupos"
